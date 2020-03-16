@@ -1,2 +1,2 @@
-# my-own-library-
-today we have created our own library in which we have stored the algorithms which we have made yesterday.
+# p5.play-boilerplate
+Boiler plate for p5.play
